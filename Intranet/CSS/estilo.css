@@ -1,0 +1,52 @@
+*{
+  margin:0%;
+  padding: 0%;
+  font-family: Arial;
+}
+
+.principal{
+  background-color: #ccc;
+  width: 95%;
+  margin: auto;
+  margin-top: 1%;
+  padding: 2%;
+}
+
+header{
+  background-color: #fff;
+  width: 98%;
+  height: 200px;
+}
+
+nav{
+   background-color: #fff;
+  width: 98%;
+  margin-top: 1%;
+  height: 50px;
+}
+
+section{
+  background-color: #fff;
+  margin-top: 1%;
+  height: 570px;
+  width: 69%;
+  float: left;
+}
+
+aside{
+  background-color: #fff;
+  margin-top: 1%;
+  height: 570px;
+  width: 28.5%;
+  float: left;
+  margin-left: 0.5%; 
+  margin-bottom: 1%; 
+}
+
+footer{
+  background-color: #fff;
+  width: 98%;
+  margin-top: 1%;
+  clear: both;
+  height: 100px;
+}
